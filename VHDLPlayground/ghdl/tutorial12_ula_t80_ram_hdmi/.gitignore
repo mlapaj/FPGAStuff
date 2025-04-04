@@ -1,0 +1,5 @@
+simulation
+out_ram_*.txt
+z80system_tb
+*.o
+wave.gtkw

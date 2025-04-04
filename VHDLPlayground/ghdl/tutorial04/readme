@@ -1,0 +1,4 @@
+Ten tutorial bierze plik scr i laduje go do pamieci. Logika vhdl napisana przez mnie ma za zadanie
+przeparsowac pamiec i zwrocic (poprzez konsole) obraz pixel po pixelu.
+nastepnie skrypty tworza plik graficzny (bitmape) i wyswietlaja ja
+

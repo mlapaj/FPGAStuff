@@ -1,0 +1,17 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2A-18C" pn="GW2A-LV18PG256C8/I7">gw2a18c-011</Device>
+    <FileList>
+        <File path="src/dvi_tx/dvi_tx.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/hdmi.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/image.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/palette.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/top.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/z80system_ram.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/hdmi.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

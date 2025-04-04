@@ -1,0 +1,1 @@
+./bsp/sag/ae350-ddr.ld

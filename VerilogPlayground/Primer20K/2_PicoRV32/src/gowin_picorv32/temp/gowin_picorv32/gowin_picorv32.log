@@ -1,0 +1,121 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+WARN  (EX3801) : Parameter 'ENABLE_HSP' becomes localparam in 'picorv32' with formal parameter declaration list("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":4)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":4)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":5)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":5)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":6)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":6)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi_const.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":7)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":7)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi_const.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/advspi.v":2639)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/ahb_bus.v'
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Analyzing included file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_config.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_bus.v'
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_brancher.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_brancher.v":177)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_brancher.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_brancher.v":177)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v'
+Analyzing included file 'pico_define.vh'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v":78)
+Back to file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v":78)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbi2c.v'
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbspi.v'
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbuart.v'
+Undeclared symbol 'break_condition', assumed default net type 'wire'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbuart.v":1206)
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/simpleuart.v'
+Analyzing Verilog file '/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v'
+WARN  (EX2582) : Parameter 'CSR_CYCLE' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":7)
+WARN  (EX2582) : Parameter 'CSR_TIME' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":8)
+WARN  (EX2582) : Parameter 'CSR_INSTRET' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":9)
+WARN  (EX2582) : Parameter 'CSR_CYCLEH' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":11)
+WARN  (EX2582) : Parameter 'CSR_TIMEH' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":12)
+WARN  (EX2582) : Parameter 'CSR_INSTRETH' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":13)
+WARN  (EX2582) : Parameter 'CSR_DCSR' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":15)
+WARN  (EX2582) : Parameter 'CSR_DPC' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":16)
+WARN  (EX2582) : Parameter 'CSR_DSCRATCH' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":17)
+WARN  (EX2582) : Parameter 'CSR_MVENDORID' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":19)
+WARN  (EX2582) : Parameter 'CSR_MARCHID' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":20)
+WARN  (EX2582) : Parameter 'CSR_MIMPID' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":21)
+WARN  (EX2582) : Parameter 'CSR_MHARTID' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":22)
+WARN  (EX2582) : Parameter 'CSR_MSTATUS' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":24)
+WARN  (EX2582) : Parameter 'CSR_MISA' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":25)
+WARN  (EX2582) : Parameter 'CSR_MIE' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":26)
+WARN  (EX2582) : Parameter 'CSR_MTVEC' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":27)
+WARN  (EX2582) : Parameter 'CSR_MSCRATCH' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":29)
+WARN  (EX2582) : Parameter 'CSR_MEPC' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":30)
+WARN  (EX2582) : Parameter 'CSR_MCAUSE' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":31)
+WARN  (EX2582) : Parameter 'CSR_MTVAL' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":32)
+WARN  (EX2582) : Parameter 'CSR_MIP' declared inside compilation unit '$unit__picorv32_v' shall be treated as localparam("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/pico_csr_define.vh":33)
+WARN  (EX3073) : Port 'slv0_sel_o' remains unconnected for this instance("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":665)
+Compiling module 'Gowin_PicoRV32_Top'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":9)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+WARN  (EX3826) : Synthesis - simulation differences may occur when using parallel_case directive("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+WARN  (EX3827) : Synthesis - simulation differences may occur when using full_case directive("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picorv32.v":2041)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (EX2629) : Delay control is not supported for synthesis("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (EX3670) : Actual bit length ** differs from formal bit length *** for port '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (EX3670) : Actual bit length 1 differs from formal bit length 4 for port 'mem_read'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc.v":484)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Extracting RAM for identifier '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_itcm.v":52)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Extracting RAM for identifier '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/picosoc_dtcm.v":41)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_bus.v":53)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wb_brancher.v":177)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbuart.v":1206)
+WARN  (EX3780) : Using initial value of '**' since it is never assigned("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbuart.v":1206)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbuart.v":1206)
+Compiling module '**'("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v":78)
+WARN  (EX2629) : Delay control is not supported for synthesis("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v":78)
+WARN  (EX1998) : Net '**' does not have a driver("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/wbgpio.v":78)
+NOTE  (EX0101) : Current top module is "Gowin_PicoRV32_Top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "s_sync" instantiated to "u_dbg_irq_sync" is swept in optimizing("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (NL0002) : The module "s_dffr" instantiated to "sync_gen[0].i_is_0.sync_dffr" is swept in optimizing("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+WARN  (NL0002) : The module "s_dffr" instantiated to "sync_gen[1].i_is_not_0.sync_dffr" is swept in optimizing("/home/cod3r/Data/Elektronika/Sipeed/Mega_138/IDECommercial/ipcore/GowinPicoRV32/Gowin_PicoRV32/dm.v":1120)
+[95%] Generate netlist file "/home/cod3r/Data/Elektronika/VerilogPlayground/Primer20K/2_PicoRV32/src/gowin_picorv32/temp/gowin_picorv32/gowin_picorv32.vg" completed
+Generate template file "/home/cod3r/Data/Elektronika/VerilogPlayground/Primer20K/2_PicoRV32/src/gowin_picorv32/temp/gowin_picorv32/gowin_picorv32_tmp.v" completed
+[100%] Generate report file "/home/cod3r/Data/Elektronika/VerilogPlayground/Primer20K/2_PicoRV32/src/gowin_picorv32/temp/gowin_picorv32/gowin_picorv32_syn.rpt.html" completed
+GowinSynthesis finish

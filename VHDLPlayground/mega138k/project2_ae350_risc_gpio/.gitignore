@@ -1,0 +1,7 @@
+impl
+simulation
+*.gtkw
+sw/**/*.o
+sw/*.hex
+sw/*.map
+sw/hello_world

@@ -1,0 +1,7 @@
+let script_dir = fnamemodify(expand('<sfile>:p'), ':h')
+let add_path = " -y " . script_dir . "/src/ "
+let add_path .= " -y " . script_dir . "/tb/ "
+let add_path .= " -l " . script_dir . "/src/riscv_ae350_soc/riscv_ae350_soc.v "
+let g:ale_verilog_iverilog_options = "-DSKIP_PROTECTED " . add_path
+let g:ale_verilog_verilator_options = '--timing' . add_path
+

@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.114 (w)1999-2023 BSI
+[*] Wed Aug  2 14:03:27 2023
+[*]
+[dumpfile] "/home/cod3r/Data/vhdl_playground/ghdl/tutorial08_hdmi_ram/simulation/out.ghw"
+[dumpfile_mtime] "Wed Aug  2 14:03:15 2023"
+[dumpfile_size] 11796
+[savefile] "/home/cod3r/Data/vhdl_playground/ghdl/tutorial08_hdmi_ram/wave.gtkw"
+[timestart] 0
+[size] 1920 1006
+[pos] -27 -24
+*-28.799999 280000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.hdmi_tb.
+[sst_width] 278
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 299
+@28
+top.hdmi_tb.rstn_o
+top.hdmi_tb.tb_clk_o
+@29
+top.hdmi_tb.hdmi0.rdy_internal
+[pattern_trace] 1
+[pattern_trace] 0

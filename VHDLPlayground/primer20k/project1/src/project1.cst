@@ -1,0 +1,14 @@
+//Copyright (C)2014-2022 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.09 Education
+//Part Number: GW2A-LV18PG256C8/I7
+//Device: GW2A-18C
+//Created Time: Thu 04 13 10:36:55 2023
+
+IO_LOC "C" T6;
+IO_PORT "C" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8;
+IO_LOC "B" D7;
+IO_PORT "B" PULL_MODE=UP;
+IO_LOC "A" C7;
+IO_PORT "A" PULL_MODE=UP;

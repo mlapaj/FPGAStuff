@@ -1,0 +1,10 @@
+*.dtb
+*.o
+*.dis
+*.map
+*.hex
+*.elf
+hello_world
+u-boot
+u-boot-sbi
+mylog.txt

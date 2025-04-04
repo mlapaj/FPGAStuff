@@ -1,0 +1,12 @@
+//Copyright (C)2014-2022 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.09 Education
+//Part Number: GW2A-LV18PG256C8/I7
+//Device: GW2A-18C
+//Created Time: Thu 04 13 11:49:16 2023
+
+IO_LOC "CLKOUT" T6;
+IO_PORT "CLKOUT" PULL_MODE=UP DRIVE=8;
+IO_LOC "CLK" H11;
+IO_PORT "CLK" PULL_MODE=UP;

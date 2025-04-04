@@ -1,0 +1,1 @@
+/home/cod3r/Data/Elektronika/vhdl_playground/mega138k/project2_ae350_risc_gpio/sw/bsp/sag/ae350-ddr.ld

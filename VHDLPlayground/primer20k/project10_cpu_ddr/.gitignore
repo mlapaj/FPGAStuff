@@ -1,0 +1,6 @@
+sw/*.o
+sw/*.bin
+sw/*.asm
+sw/*.elf
+sw/*.hex
+sw/*.vhd

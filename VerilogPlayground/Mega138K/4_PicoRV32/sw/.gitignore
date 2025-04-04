@@ -1,0 +1,7 @@
+*.o
+app.bin
+app.hex
+app.elf
+lib/*.o
+
+

@@ -1,0 +1,10 @@
+adapter driver jtag
+adapter speed 10000
+transport select jtag
+
+set _CHIPNAME riscv
+jtag newtap $_CHIPNAME cpu -irlen 5
+set _TARGETNAME $_CHIPNAME.cpu
+target create $_TARGETNAME.0 riscv -chain-position $_TARGETNAME
+init
+reset halt
